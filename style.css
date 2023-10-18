@@ -1,0 +1,92 @@
+h1{
+   font-size: 3rem;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-block-end: 10px;
+    
+}
+    
+.set {
+    margin: 3% auto;
+  }
+.Gphotos{
+    width: 1000px;
+    height:700px;
+
+} 
+.Gphotos2{
+    width: 1000px;
+    height:600px;
+
+} 
+.phototext{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+}  
+
+.cards{
+    margin: 3% auto;
+}
+
+.members{
+    width: 250px;
+    height: 350px;
+    display: inline-block;
+}
+
+span{
+    margin-left: 75px;
+    margin-top: 10px;
+    text-align: justify;
+    margin-right: 100px;
+}
+
+p{
+    font-family:Arial, Helvetica, sans-serif;
+    
+    
+}
+.drum {
+    outline: none;
+    border: 5px solid #000;
+    font-size: 30px;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: #000;
+    text-shadow: 3px 0 #DBEDF3;
+    border-radius: 15px;
+    display: inline-block;
+    width: 300px;
+    height: 400px;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+}
+.w{
+    background-image:url("instruments/suona.jpg");
+}
+.a{
+    background-image: url("instruments/dizi.jpg");
+}
+.s{
+    background-image: url("instruments/erhu.jpg");
+}
+.d{
+    background-image: url("instruments/pipa2.jpeg");
+}
+.j{
+    background-image: url("instruments/zhongruan.jpeg");
+}
+.k{
+    background-image: url("instruments/guzheng.jpeg");
+}
+.l{
+    background-image: url("instruments/cello.jpeg");
+}
+.m{
+    background-image: url("instruments/percussion.jpg");
+}
+.n{
+    background-image: url("instruments/hulusi.jpg");
+}
